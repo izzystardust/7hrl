@@ -6,5 +6,5 @@ This is ralphie, my take on it. The code sucks, I know the code sucks, but it pl
 
 Some others from the same event:
 
-* [cmr](github.com/cmr/seven-hour-roguelike)
-* [richteer](github.com/richteer/wambda)
+* [cmr](https://github.com/cmr/seven-hour-roguelike)
+* [richteer](https://github.com/richteer/wambda)
